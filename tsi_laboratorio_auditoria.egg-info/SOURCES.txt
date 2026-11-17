@@ -1,0 +1,10 @@
+README.md
+pyproject.toml
+app/__init__.py
+app/main.py
+tests/test_api.py
+tsi_laboratorio_auditoria.egg-info/PKG-INFO
+tsi_laboratorio_auditoria.egg-info/SOURCES.txt
+tsi_laboratorio_auditoria.egg-info/dependency_links.txt
+tsi_laboratorio_auditoria.egg-info/requires.txt
+tsi_laboratorio_auditoria.egg-info/top_level.txt
